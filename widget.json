@@ -1,0 +1,13 @@
+{
+    "id": "no.leitom.loading",
+    "name": "no.leitom.loading",
+    "description" : "An loading overlay for any kind of window setup (primary for android)",
+    "author": "Tommy Leirvik",
+    "version": "1.0",
+    "copyright":"Copyright (c) 2014",
+    "license": "MIT",
+    "min-alloy-version": "1.1",
+    "min-titanium-version": "3.0",
+    "tags": "loading",
+    "platforms": "android"
+}
