@@ -9,7 +9,8 @@ USAGE:
 
 Include the widget in you view like the following:
 
-<Widget id="aload" platform="android" src="no.leitom.loading" />
+\<Widget id='aload' platform='android' src='no.leitom.loading' /\>
+
 
 You can allso specify the following parameters:
 
