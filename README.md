@@ -1,7 +1,7 @@
 no.leitom.loading
 =================
 
-A modal overlay loading widget for android
+A modal overlay loading widget for android using the Appcelerator Ti Alloy framework.
 
 This widget lets you show a overlay loading widget on android no matter what layout properties the parent window has.
 
